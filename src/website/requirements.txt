@@ -1,0 +1,5 @@
+markdown
+django==1.6.1
+django-registration
+psycopg2
+misaka
